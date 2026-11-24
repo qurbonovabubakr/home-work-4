@@ -528,18 +528,87 @@
     border: 1px solid #f0f0f0;
 }
 
-.n8 img, .n9 img {
+.n8 img,
+.n9 img {
     width: 165px;
     margin-bottom: 20px;
 }
 
-.n8 h3, .n9 h3 {
+.n8 h3,
+.n9 h3 {
     font-size: 22px;
     color: #2f2c4a;
     margin-bottom: 10px;
 }
 
-.n8 p, .n9 p {
+.n8 p,
+.n9 p {
     font-size: 15px;
     color: #656464;
+}
+
+.m99 {
+    width: 100%;
+    background-color: #e5f0fd;
+}
+
+.m {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 50px 0px 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.m1 {
+    width: 45%;
+    padding-bottom: 50px;
+}
+
+.m2 {
+    color: #217bf4;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 12px;
+}
+
+.m1 h2 {
+    font-size: 36px;
+    color: #0a093d;
+    margin-bottom: 18px;
+}
+
+.m3 {
+    font-size: 16px;
+    color: #656464;
+    margin-bottom: 35px;
+}
+
+.m4 {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.m5 {
+    height: 80px;
+    border-radius: 8px;
+}
+
+.m6 {
+    height: 40px;
+    border-radius: 8px;
+}
+
+.m7 {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.m7 img {
+    width: 440px;
+    display: block;
 }
